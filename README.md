@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm Alexander Vargas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Master’s+Degree+in+Artificial+Intelligence;Mid+Senior+Web+Developer;Flutter%20|%20AI%20|%20ML%20Enthusiast;Sistem%20Engineering;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-	(https://github.com/user-attachments/files/18816744/Alex_CV.pdf)
-![@AlexVargasV (2)](https://github.com/user-attachments/assets/7b6315ac-3266-49ea-9661-d748520003a2)
+
+[Alex_CV.pdf](https://github.com/user-attachments/files/18816748/Alex_CV.pdf)
+![@AlexVargasV (2)](https://github.com/user-attachments/assets/852fc8aa-d2fe-4c20-ae5c-94f2b5841663)
+
 
 </p>
 <hr/>
