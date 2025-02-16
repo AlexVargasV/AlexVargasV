@@ -8,7 +8,11 @@
 
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am an AI and software development professional with expertise in Machine Learning, Computer Vision, NLP, and Full Stack Development (Frontend & Backend). Skilled in technologies like Laravel, Django, Flutter, TensorFlow, Dialogflow, and DevOps, I specialize in designing intelligent systems that enhance automation and efficiency. Passionate about coding, problem-solving, and innovation, I enjoy taking on new challenges and collaborating with dynamic teams.
+
+My key projects include Nana Kan (Flutter Open Source), Nova CRM (CodeIgniter Private Project), and Pachamama (TensorFlow & Dialogflow Private Project), showcasing my ability to develop scalable solutions across various domains. Always eager to learn and contribute, I strive to push the boundaries of AI and software engineering."**
+
+This version presents you as a skilled and ambitious professional while making your projects and expertise stand out. 🚀</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
