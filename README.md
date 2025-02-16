@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alexander Vargas</h1>
+<h3 align="center">Master’s Degree in Artificial Intelligence</h3>
+![@AlexVargasV (2)](https://github.com/user-attachments/assets/b9de04b4-92f4-440e-b684-5f11e3fcf603)
 
 <!--
 **AlexVargasV/AlexVargasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
