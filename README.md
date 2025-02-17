@@ -14,10 +14,10 @@ My key projects include Nana Kan (Flutter Open Source), Nova CRM (CodeIgniter Pr
 
 This version presents you as a skilled and ambitious professional while making your projects and expertise stand out. 🚀</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AlexVargasV&label=Profile%20views&color=0e75b6&style=plastic" alt="AlexVargasV" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexVargasV&theme=algolia" alt="AlexVargasV"  /></p>
 
 
 ## 🛠️ My Skills
